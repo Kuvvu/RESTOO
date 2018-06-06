@@ -1,0 +1,30 @@
+{
+    "name": "kuvvu/restoo-skeleton",
+    "description": "Rest API Wrapper for Medoo based on Slim Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Jenny",
+            "email": "simon.jenny@kuvvu.ch"
+        }
+    ],
+    "require": {
+      "php": ">=5.5.0",
+      "slim/slim": "^3.1",
+      "monolog/monolog": "^1.17",
+      "vlucas/phpdotenv": "^2.4",
+      "catfan/medoo": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Restoo\\": "src/"
+        }
+    },
+    "scripts": {
+        "start": "php -S localhost:8080 -t public"
+    },
+    "config": {
+      "process-timeout":0
+    }
+}
