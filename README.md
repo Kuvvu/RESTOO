@@ -27,12 +27,12 @@ by the Framework: https://www.slimframework.com/docs/
 There are some Clients available:
 
 ### PHP
--- restoo-php-client
-   PHP Client for Restoo API Server
-   https://github.com/Kuvvu/restoo-php-client
+restoo-php-client
+PHP Client for Restoo API Server
+https://github.com/Kuvvu/restoo-php-client
 
-### JQuery
+### JQuery 
 
--- restoo-jquery-client
-   jQuery Client for Restoo API Server
-   https://github.com/Kuvvu/restoo-jquery-client
+restoo-jquery-client
+jQuery Client for Restoo API Server
+https://github.com/Kuvvu/restoo-jquery-client
