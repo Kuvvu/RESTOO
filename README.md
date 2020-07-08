@@ -5,7 +5,7 @@
 Create new RESTOO Project with Composer
 
 ```
-composer create-project kuvvu/restoo-skeleton <PROJECTNAME>
+composer create-project kuvvu/restoo:dev-master <PROJECTNAME>
 ```
 
 ## Configuration
