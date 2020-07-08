@@ -24,7 +24,7 @@ by the Framework: https://www.slimframework.com/docs/
 
 ## Clients
 
-There are some Clients available:
+These Clients are available:
 
 ### PHP
 restoo-php-client  
