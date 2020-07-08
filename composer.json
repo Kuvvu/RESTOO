@@ -1,5 +1,5 @@
 {
-    "name": "kuvvu/restoo-skeleton",
+    "name": "kuvvu/restoo",
     "description": "Rest API Wrapper for Medoo based on Slim Framework",
     "type": "project",
     "license": "MIT",
